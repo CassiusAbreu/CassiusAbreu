@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cassius Abreu
-- 👀 I’m interested in Game development, Unity, C#, .NET
+- 👀 I’m interested in Game development, Unity, C# and .NET
 - 🌱 I’m currently learning C# and Unity ...
 - 💞️ I’m looking to collaborate on game projects..
 - 📫 How to reach me: Discord: vini#2172
